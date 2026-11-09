@@ -1,0 +1,427 @@
+[
+{
+"en": "Rentar-Ihrno",
+"ja": "レンタール・イルノ",
+"keep": true
+},
+{
+"en": "Crystal Soul of Jekknol",
+"ja": "ジェクノルの水晶の魂",
+"keep": true
+},
+{
+"en": "Delrin-Bok",
+"ja": "デルリン・ボック",
+"keep": true
+},
+{
+"en": "Alass of the Ten",
+"ja": "十人衆のアラス",
+"keep": true
+},
+{
+"en": "Balor of the Ten",
+"ja": "十人衆のバロール",
+"keep": true
+},
+{
+"en": "Rakshasa Consort",
+"ja": "ラクシャーサの妃",
+"keep": true
+},
+{
+"en": "Warded Infernal",
+"ja": "結界の業火魔",
+"keep": true
+},
+{
+"en": "Frenzied Infernal",
+"ja": "狂乱の業火魔",
+"keep": true
+},
+{
+"en": "Mad Infernal",
+"ja": "狂える業火魔",
+"keep": true
+},
+{
+"en": "Infernal of the Ten",
+"ja": "十人衆の業火魔",
+"keep": true
+},
+{
+"en": "Call Infernal",
+"ja": "業火魔召喚",
+"keep": true
+},
+{
+"en": "Infernal",
+"ja": "業火魔",
+"keep": true
+},
+{
+"en": "Quickfire",
+"ja": "クイックファイア",
+"keep": true
+},
+{
+"en": "Demi-Portal",
+"ja": "半転移門",
+"keep": true
+},
+{
+"en": "Ten",
+"ja": "十人衆",
+"keep": true
+},
+{
+"en": "Aichael-Bok",
+"ja": "アイケル・ボック",
+"keep": true
+},
+{
+"en": "Caffren-Bok",
+"ja": "カフレン・ボック",
+"keep": true
+},
+{
+"en": "Elohi-Bok",
+"ja": "エロヒ・ボック",
+"keep": true
+},
+{
+"en": "Eos-Bok",
+"ja": "エオス・ボック",
+"keep": true
+},
+{
+"en": "Jekknol-Bok",
+"ja": "ジェクノル・ボック",
+"keep": true
+},
+{
+"en": "Korhis-Bok",
+"ja": "コルヒス・ボック",
+"keep": true
+},
+{
+"en": "Liedra-Bok",
+"ja": "リエドラ・ボック",
+"keep": true
+},
+{
+"en": "Lorta-Bok",
+"ja": "ロルタ・ボック",
+"keep": true
+},
+{
+"en": "Prossis-Bok",
+"ja": "プロシス・ボック",
+"keep": true
+},
+{
+"en": "Roda-Bok",
+"ja": "ローダ・ボック",
+"keep": true
+},
+{
+"en": "Vyvnas-Bok",
+"ja": "ヴィヴナス・ボック",
+"keep": true
+},
+{
+"en": "Wilvron-Bok",
+"ja": "ウィルヴロンボック",
+"keep": true
+},
+{
+"en": "chitrach",
+"ja": "チトラッチ",
+"keep": true
+},
+{
+"en": "waveblade",
+"ja": "ウェーブブレード",
+"keep": true
+},
+{
+"en": "lizard men",
+"ja": "トカゲ人",
+"keep": true
+},
+{
+"en": "cavequake",
+"ja": "洞窟地震",
+"keep": true
+},
+{
+"en": "Waveblade",
+"ja": "ウェーブブレード",
+"keep": true
+},
+{
+"en": "Chitrach",
+"ja": "チトラッチ",
+"keep": true
+},
+{
+"en": "Ziggurat",
+"ja": "ジッグラト",
+"keep": true
+},
+{
+"en": "Hellhound",
+"ja": "ヘルハウンド",
+"keep": true
+},
+{
+"en": "Warped Chitrach",
+"ja": "歪んだチトラッチ",
+"keep": true
+},
+{
+"en": "Chitrach Egg Sac",
+"ja": "チトラッチの卵嚢",
+"keep": true
+},
+{
+"en": "Chitrach Hatchling",
+"ja": "チトラッチの幼体",
+"keep": true
+},
+{
+"en": "Chitrach Larva",
+"ja": "チトラッチの幼虫",
+"keep": true
+},
+{
+"en": "Plated Chitrach",
+"ja": "装甲チトラッチ",
+"keep": true
+},
+{
+"en": "Fine Steel Waveblade",
+"ja": "上質鋼のウェーブブレード",
+"keep": true
+},
+{
+"en": "Grah-Hoth",
+"ja": "グラー・ホース",
+"keep": true
+},
+{
+"en": "Ner Sem",
+"ja": "Ner Sem",
+"keep": false
+},
+{
+"en": "Pit Esk",
+"ja": "Pit Esk",
+"keep": false
+},
+{
+"en": "Magic Barrier S",
+"ja": "魔法の結界",
+"keep": true
+},
+{
+"en": "Sss-Thsss",
+"ja": "シュー・スサス",
+"keep": true
+},
+{
+"en": "Kothtar",
+"ja": "コスタール",
+"keep": true
+},
+{
+"en": "Kothtar Plans",
+"ja": "コスタールの設計図",
+"keep": true
+},
+{
+"en": "Kothtar Researcher",
+"ja": "コスタール研究員",
+"keep": true
+},
+{
+"en": "Amber Charm",
+"ja": "琥珀のお守り",
+"keep": true
+},
+{
+"en": "Amber Key",
+"ja": "琥珀の鍵",
+"keep": true
+},
+{
+"en": "Troglodytes",
+"ja": "トログロダイト",
+"keep": true
+},
+{
+"en": "King of the Troglodytes",
+"ja": "トログロダイトの王",
+"keep": true
+},
+{
+"en": "Deal With the Troglodytes.",
+"ja": "トログロダイトとの取引",
+"keep": true
+},
+{
+"en": "Fletcher",
+"ja": "矢師",
+"keep": false
+},
+{
+"en": "Black",
+"ja": "ブラック",
+"keep": false
+},
+{
+"en": "Claw",
+"ja": "クロー",
+"keep": true
+},
+{
+"en": "Claw Hardblade",
+"ja": "クロー・ハードブレード",
+"keep": true
+},
+{
+"en": "Alien Slime",
+"ja": "異形のスライム",
+"keep": true
+},
+{
+"en": "Alien Beasts",
+"ja": "異形の獣",
+"keep": true
+},
+{
+"en": "Alien Beast",
+"ja": "異形の獣",
+"keep": true
+},
+{
+"en": "Skribbane",
+"ja": "スクリバン",
+"keep": true
+},
+{
+"en": "skribbane",
+"ja": "スクリバン",
+"keep": true
+},
+{
+"en": "Midori Province",
+"ja": "ミドリ地方",
+"keep": true
+},
+{
+"en": "Midori",
+"ja": "ミドリ",
+"keep": true
+},
+{
+"en": "Monoroe",
+"ja": "モノロー",
+"keep": true
+},
+{
+"en": "Sailor",
+"ja": "船乗り",
+"keep": false
+},
+{
+"en": "Skribbane Herb",
+"ja": "スクリバンの薬草",
+"keep": true
+},
+{
+"en": "Divine Lucre",
+"ja": "聖なる金銭",
+"keep": true
+},
+{
+"en": "Temple of the Divine Lucre",
+"ja": "聖なる金銭の神殿",
+"keep": true
+},
+{
+"en": "Church of the Divine Lucre",
+"ja": "聖なる金銭教会",
+"keep": true
+},
+{
+"en": "Filth",
+"ja": "汚濁",
+"keep": false
+},
+{
+"en": "Eagle Rock",
+"ja": "鷲岩",
+"keep": true
+},
+{
+"en": "Deathrock Clan",
+"ja": "死岩の一族",
+"keep": true
+},
+{
+"en": "Flameclub Clan",
+"ja": "炎棍の一族",
+"keep": true
+},
+{
+"en": "Souldeath Clan",
+"ja": "魂殺しの一族",
+"keep": true
+},
+{
+"en": "Black Ember Clan",
+"ja": "黒い残り火の一族",
+"keep": true
+},
+{
+"en": "Ghast",
+"ja": "ガスト",
+"keep": true
+},
+{
+"en": "Doomguard",
+"ja": "滅びの番人",
+"keep": true
+},
+{
+"en": "Church of Divine Lucre",
+"ja": "聖なる金銭教会",
+"keep": true
+},
+{
+"en": "Bring Skribbane Herb",
+"ja": "スクリバン薬草の調達",
+"keep": true
+},
+{
+"en": "Skribbane Customer",
+"ja": "スクリバンの客",
+"keep": true
+},
+{
+"en": "Bored Sailor",
+"ja": "退屈な船乗り",
+"keep": true
+},
+{
+"en": "Bring Skribbane Herb.",
+"ja": "スクリバン薬草の調達",
+"keep": true
+},
+{
+"en": "Buying Skribbane",
+"ja": "スクリバンの購入",
+"keep": true
+}
+]

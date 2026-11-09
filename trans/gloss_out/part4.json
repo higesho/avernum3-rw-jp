@@ -1,0 +1,1457 @@
+[
+ {
+  "en": "Isaac the Fletcher",
+  "ja": "アイザックの矢工房",
+  "keep": true
+ },
+ {
+  "en": "Jeweled Golem",
+  "ja": "宝石のゴーレム",
+  "keep": true
+ },
+ {
+  "en": "Judith the Healer",
+  "ja": "ジュディスの治療所",
+  "keep": true
+ },
+ {
+  "en": "Kendra's Gloves",
+  "ja": "ケンドラの手袋店",
+  "keep": true
+ },
+ {
+  "en": "Key to Hawke's Manse",
+  "ja": "ホークの屋敷の鍵",
+  "keep": true
+ },
+ {
+  "en": "Khoth's Defender",
+  "ja": "コースの守護者",
+  "keep": true
+ },
+ {
+  "en": "Khoth's Spells",
+  "ja": "コースの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Kilborn's Spells",
+  "ja": "キルボーンの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Kill Bandit Leader.",
+  "ja": "山賊の首領の討伐",
+  "keep": true
+ },
+ {
+  "en": "Kill Creatures For Sulfras.",
+  "ja": "サルフラスのための怪物討伐",
+  "keep": true
+ },
+ {
+  "en": "Kill Giants in Swamp.",
+  "ja": "沼地の巨人族の討伐",
+  "keep": true
+ },
+ {
+  "en": "Kill Ice Worm.",
+  "ja": "氷の蠕虫の討伐",
+  "keep": true
+ },
+ {
+  "en": "Kill King Vothkaro.",
+  "ja": "ヴォスカロ王の討伐",
+  "keep": true
+ },
+ {
+  "en": "Kill Roaches For Nell.",
+  "ja": "ネルのためのゴキブリ討伐",
+  "keep": true
+ },
+ {
+  "en": "Kill Vampire By Sea.",
+  "ja": "海辺のヴァンパイア討伐",
+  "keep": true
+ },
+ {
+  "en": "Knots For Sailors",
+  "ja": "船乗り用の結び縄",
+  "keep": true
+ },
+ {
+  "en": "Kurtz's Magic",
+  "ja": "カーツの魔法店",
+  "keep": true
+ },
+ {
+  "en": "Lands of Empire",
+  "ja": "帝国の領土",
+  "keep": true
+ },
+ {
+  "en": "Large Iron Key",
+  "ja": "大きな鉄の鍵",
+  "keep": false
+ },
+ {
+  "en": "Levy's Supplies",
+  "ja": "レヴィの物資屋",
+  "keep": true
+ },
+ {
+  "en": "Liberate Dryad Grove.",
+  "ja": "ドライアドの森の解放",
+  "keep": true
+ },
+ {
+  "en": "Libras Courier Job.",
+  "ja": "リブラスの配達依頼",
+  "keep": true
+ },
+ {
+  "en": "Lich Trynnson",
+  "ja": "リッチのトリンソン",
+  "keep": true
+ },
+ {
+  "en": "Ligaya's Birds",
+  "ja": "リガヤの鳥屋",
+  "keep": true
+ },
+ {
+  "en": "Locket With Painting",
+  "ja": "絵画入りのロケット",
+  "keep": true
+ },
+ {
+  "en": "Lord of the Shovel",
+  "ja": "シャベルの君主",
+  "keep": true
+ },
+ {
+  "en": "Love Letter",
+  "ja": "恋文",
+  "keep": true
+ },
+ {
+  "en": "Lucky Charm",
+  "ja": "幸運のお守り",
+  "keep": true
+ },
+ {
+  "en": "Lucky Charms",
+  "ja": "幸運のお守り店",
+  "keep": true
+ },
+ {
+  "en": "Machinery",
+  "ja": "機械装置",
+  "keep": false
+ },
+ {
+  "en": "Macitar's Spells",
+  "ja": "マシタールの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Mad Mage",
+  "ja": "狂乱の魔術師",
+  "keep": true
+ },
+ {
+  "en": "Maddened Drake",
+  "ja": "狂乱のドレイク",
+  "keep": true
+ },
+ {
+  "en": "Maddened Gazer",
+  "ja": "狂乱のゲイザー",
+  "keep": true
+ },
+ {
+  "en": "Mage in the Sky.",
+  "ja": "空の魔術師",
+  "keep": true
+ },
+ {
+  "en": "Magic For Dummies",
+  "ja": "魔法入門",
+  "keep": true
+ },
+ {
+  "en": "Makeup Pot",
+  "ja": "化粧の壺",
+  "keep": true
+ },
+ {
+  "en": "Map of Valorim.",
+  "ja": "ヴァロリムの地図",
+  "keep": true
+ },
+ {
+  "en": "Marble Bust",
+  "ja": "大理石の胸像",
+  "keep": false
+ },
+ {
+  "en": "Mario's Rations",
+  "ja": "マリオの糧食店",
+  "keep": true
+ },
+ {
+  "en": "Martial Arts",
+  "ja": "武術指南書",
+  "keep": false
+ },
+ {
+  "en": "Master Monk",
+  "ja": "達人の修道僧",
+  "keep": true
+ },
+ {
+  "en": "Mauler Infernal",
+  "ja": "破壊の業火魔",
+  "keep": true
+ },
+ {
+  "en": "Mauve Slime",
+  "ja": "薄紫のスライム",
+  "keep": true
+ },
+ {
+  "en": "McDonald's Rations",
+  "ja": "マクドナルドの糧食店",
+  "keep": true
+ },
+ {
+  "en": "McElton's items",
+  "ja": "マクエルトンの雑貨店",
+  "keep": true
+ },
+ {
+  "en": "Meena's Training",
+  "ja": "ミーナの訓練所",
+  "keep": true
+ },
+ {
+  "en": "Meet Empress Prazac.",
+  "ja": "プラザック女帝との面会",
+  "keep": true
+ },
+ {
+  "en": "MegaSpineflinger",
+  "ja": "巨大棘投擲兵",
+  "keep": true
+ },
+ {
+  "en": "Merry's Supplies",
+  "ja": "メリーの物資屋",
+  "keep": true
+ },
+ {
+  "en": "Message to Baziron.",
+  "ja": "バジロンへの伝言",
+  "keep": true
+ },
+ {
+  "en": "Metal For Carmine.",
+  "ja": "カーマインのための金属",
+  "keep": true
+ },
+ {
+  "en": "Metal Note",
+  "ja": "金属のメモ",
+  "keep": true
+ },
+ {
+  "en": "Miles the Alchemist",
+  "ja": "マイルズの錬金店",
+  "keep": true
+ },
+ {
+  "en": "Mirror",
+  "ja": "鏡",
+  "keep": false
+ },
+ {
+  "en": "Mirror NE SW",
+  "ja": "北東南西の鏡",
+  "keep": false
+ },
+ {
+  "en": "Mirror NW SE",
+  "ja": "北西南東の鏡",
+  "keep": false
+ },
+ {
+  "en": "Mundt's Herbs",
+  "ja": "ムントの薬草店",
+  "keep": true
+ },
+ {
+  "en": "Mung Cockroach",
+  "ja": "マングゴキブリ",
+  "keep": true
+ },
+ {
+  "en": "Mutant Smithmaster",
+  "ja": "変異体の鍛冶頭",
+  "keep": true
+ },
+ {
+  "en": "Nasty Grove Ogre",
+  "ja": "凶悪な森のオーガ",
+  "keep": true
+ },
+ {
+  "en": "Nell's Scrolls",
+  "ja": "ネルの巻物店",
+  "keep": true
+ },
+ {
+  "en": "Nephar Smuggler",
+  "ja": "ネファルの密輸人",
+  "keep": true
+ },
+ {
+  "en": "Nephil Charm",
+  "ja": "ネフィルのお守り",
+  "keep": true
+ },
+ {
+  "en": "Net",
+  "ja": "網",
+  "keep": false
+ },
+ {
+  "en": "New Formello Murders.",
+  "ja": "フォルメロの新たな殺人",
+  "keep": true
+ },
+ {
+  "en": "Nicely Fattened Rat",
+  "ja": "よく肥えたネズミ",
+  "keep": true
+ },
+ {
+  "en": "Night of Blood Fang",
+  "ja": "血牙の夜",
+  "keep": true
+ },
+ {
+  "en": "Null Ghast",
+  "ja": "無効のガスト",
+  "keep": true
+ },
+ {
+  "en": "Ocher Slime",
+  "ja": "黄土色のスライム",
+  "keep": true
+ },
+ {
+  "en": "Ohar's Weaponry",
+  "ja": "オハールの武器店",
+  "keep": true
+ },
+ {
+  "en": "Old Elder Ballah",
+  "ja": "年老いた長老バラー",
+  "keep": true
+ },
+ {
+  "en": "On Weaponry",
+  "ja": "武器論",
+  "keep": true
+ },
+ {
+  "en": "Oozing Roach",
+  "ja": "粘液のゴキブリ",
+  "keep": true
+ },
+ {
+  "en": "Overseer Doshda",
+  "ja": "ドシュダ監督官",
+  "keep": true
+ },
+ {
+  "en": "PLACEHOLDER ITEM",
+  "ja": "仮のアイテム",
+  "keep": true
+ },
+ {
+  "en": "Pachtar's Plate Mail",
+  "ja": "パクタールの板金鎧",
+  "keep": true
+ },
+ {
+  "en": "Pack Leader",
+  "ja": "群れの頭目",
+  "keep": true
+ },
+ {
+  "en": "Package to Lorelei.",
+  "ja": "ローレライ宛の小包",
+  "keep": true
+ },
+ {
+  "en": "Patron of Alchemy",
+  "ja": "錬金術の庇護者",
+  "keep": true
+ },
+ {
+  "en": "Paulo's Rituals",
+  "ja": "パウロの祈祷所",
+  "keep": true
+ },
+ {
+  "en": "Perfect Flower",
+  "ja": "完全な花",
+  "keep": false
+ },
+ {
+  "en": "Peripatetic",
+  "ja": "遍歴者",
+  "keep": false
+ },
+ {
+  "en": "Petrie's Spells",
+  "ja": "ペトリーの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Piercing the Lost Portals",
+  "ja": "失われた転移門の突破",
+  "keep": true
+ },
+ {
+  "en": "Poor Nephilim.",
+  "ja": "貧しいネフィリム",
+  "keep": true
+ },
+ {
+  "en": "Potted Shrub D",
+  "ja": "鉢植えの低木",
+  "keep": true
+ },
+ {
+  "en": "Prazac's Key",
+  "ja": "プラザックの鍵",
+  "keep": true
+ },
+ {
+  "en": "Push Crate",
+  "ja": "木箱を押す",
+  "keep": false
+ },
+ {
+  "en": "Randall's Randoms",
+  "ja": "ランドールの雑貨店",
+  "keep": true
+ },
+ {
+  "en": "Rare Herbs",
+  "ja": "希少な薬草店",
+  "keep": true
+ },
+ {
+  "en": "Read Vahnatai Notes.",
+  "ja": "ヴァーナタイのメモ読解",
+  "keep": true
+ },
+ {
+  "en": "Reborn Giant",
+  "ja": "再生の巨人",
+  "keep": true
+ },
+ {
+  "en": "Recall Crystal",
+  "ja": "帰還の水晶",
+  "keep": true
+ },
+ {
+  "en": "Recover Lab Notes.",
+  "ja": "実験メモの回収",
+  "keep": true
+ },
+ {
+  "en": "Recover Orb of Thralni.",
+  "ja": "スラルニの宝珠の回収",
+  "keep": true
+ },
+ {
+  "en": "Red-Eyed Bones",
+  "ja": "赤眼の骨",
+  "keep": true
+ },
+ {
+  "en": "Rentar Construct",
+  "ja": "レンタールの人形",
+  "keep": true
+ },
+ {
+  "en": "Renton's Armor",
+  "ja": "レントンの防具店",
+  "keep": true
+ },
+ {
+  "en": "Research Journal",
+  "ja": "研究日誌",
+  "keep": false
+ },
+ {
+  "en": "Restoration Demon",
+  "ja": "回復のデーモン",
+  "keep": true
+ },
+ {
+  "en": "Retrieve Charm for Nephil.",
+  "ja": "ネフィルのお守りの回収",
+  "keep": true
+ },
+ {
+  "en": "Return Koriba's Statue.",
+  "ja": "コリバの石像の返却",
+  "keep": true
+ },
+ {
+  "en": "Return Paulo's Package.",
+  "ja": "パウロの小包の返却",
+  "keep": true
+ },
+ {
+  "en": "Reward Slip",
+  "ja": "報酬票",
+  "keep": false
+ },
+ {
+  "en": "Ring of Utility",
+  "ja": "実用の指輪",
+  "keep": true
+ },
+ {
+  "en": "Roach Bite",
+  "ja": "ゴキブリの噛みつき",
+  "keep": true
+ },
+ {
+  "en": "Roaches and You",
+  "ja": "ゴキブリ読本",
+  "keep": false
+ },
+ {
+  "en": "Roachranea",
+  "ja": "ロウチラネア",
+  "keep": true
+ },
+ {
+  "en": "Runed Kilt",
+  "ja": "ルーンのキルト",
+  "keep": true
+ },
+ {
+  "en": "Sage Zandre",
+  "ja": "賢者ザンドレ",
+  "keep": true
+ },
+ {
+  "en": "Sara's Spells",
+  "ja": "サラの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Scourge Hynyah",
+  "ja": "厄災のヒナヤ",
+  "keep": true
+ },
+ {
+  "en": "Scroll From Anaximander",
+  "ja": "アナクシマンダーからの巻物",
+  "keep": true
+ },
+ {
+  "en": "Scroll From Prazac",
+  "ja": "プラザックからの巻物",
+  "keep": true
+ },
+ {
+  "en": "Scroll of Passage",
+  "ja": "通行の巻物",
+  "keep": true
+ },
+ {
+  "en": "Search Agate Tower.",
+  "ja": "アゲートの塔の捜索",
+  "keep": true
+ },
+ {
+  "en": "Secrets of Training",
+  "ja": "訓練の秘訣",
+  "keep": true
+ },
+ {
+  "en": "Secrets of Wainscotting",
+  "ja": "ウェインスコッティング術",
+  "keep": true
+ },
+ {
+  "en": "Sensor Band",
+  "ja": "感知の腕輪",
+  "keep": true
+ },
+ {
+  "en": "Serpent",
+  "ja": "大蛇",
+  "keep": false
+ },
+ {
+  "en": "Sewer Stalker",
+  "ja": "下水の追跡者",
+  "keep": true
+ },
+ {
+  "en": "Shaman Frygha",
+  "ja": "フリガ呪術師",
+  "keep": true
+ },
+ {
+  "en": "Shaman Glibl",
+  "ja": "グリブル呪術師",
+  "keep": true
+ },
+ {
+  "en": "Shaman Grelth",
+  "ja": "グレルス呪術師",
+  "keep": true
+ },
+ {
+  "en": "Shaman Gvilta",
+  "ja": "グヴィルタ呪術師",
+  "keep": true
+ },
+ {
+  "en": "Shaman Wilom",
+  "ja": "ウィロム呪術師",
+  "keep": true
+ },
+ {
+  "en": "Shane's Crafts",
+  "ja": "シェインの工芸店",
+  "keep": true
+ },
+ {
+  "en": "Sharimik Ring",
+  "ja": "シャリミクの指輪",
+  "keep": true
+ },
+ {
+  "en": "Sharimik Scroll Quest.",
+  "ja": "シャリミクの巻物探索",
+  "keep": true
+ },
+ {
+  "en": "Shocked",
+  "ja": "感電",
+  "keep": false
+ },
+ {
+  "en": "Shrub D R1",
+  "ja": "低木DR1",
+  "keep": true
+ },
+ {
+  "en": "Shrub D R2",
+  "ja": "低木DR2",
+  "keep": true
+ },
+ {
+  "en": "Shrub D R3",
+  "ja": "低木DR3",
+  "keep": true
+ },
+ {
+  "en": "Shrub R4 D",
+  "ja": "低木R4D",
+  "keep": true
+ },
+ {
+  "en": "Shrub R5 D",
+  "ja": "低木R5D",
+  "keep": true
+ },
+ {
+  "en": "Sickle",
+  "ja": "鎌",
+  "keep": false
+ },
+ {
+  "en": "Silver Key",
+  "ja": "銀の鍵",
+  "keep": false
+ },
+ {
+  "en": "Silver Ring",
+  "ja": "銀の指輪",
+  "keep": false
+ },
+ {
+  "en": "Silver Runed Amulet",
+  "ja": "銀のルーンの護符",
+  "keep": true
+ },
+ {
+  "en": "Skeleton Flinger",
+  "ja": "骸骨の投石兵",
+  "keep": true
+ },
+ {
+  "en": "Skilled Artisan",
+  "ja": "熟練の職人",
+  "keep": true
+ },
+ {
+  "en": "Skittering Roach",
+  "ja": "素早いゴキブリ",
+  "keep": true
+ },
+ {
+  "en": "Slay Elhioc.",
+  "ja": "エルヒオクの討伐",
+  "keep": true
+ },
+ {
+  "en": "Slay Lizard Chief.",
+  "ja": "トカゲの族長の討伐",
+  "keep": true
+ },
+ {
+  "en": "Slime Factory",
+  "ja": "スライム工場",
+  "keep": true
+ },
+ {
+  "en": "Slime From Beyond",
+  "ja": "彼方のスライム",
+  "keep": true
+ },
+ {
+  "en": "Slime Map",
+  "ja": "スライムの地図",
+  "keep": true
+ },
+ {
+  "en": "Slime Poke",
+  "ja": "スライムの突き",
+  "keep": true
+ },
+ {
+  "en": "Slime Spewer",
+  "ja": "吐くスライム",
+  "keep": true
+ },
+ {
+  "en": "Slime Zombie",
+  "ja": "スライムゾンビ",
+  "keep": true
+ },
+ {
+  "en": "Slimes and Rentar-Ihrno.",
+  "ja": "スライムとレンタール・イルノ",
+  "keep": true
+ },
+ {
+  "en": "Slithzerikai Dawn",
+  "ja": "スリスザリカイのドーン",
+  "keep": true
+ },
+ {
+  "en": "Small Null Bug",
+  "ja": "小さな無効の虫",
+  "keep": true
+ },
+ {
+  "en": "Soldiers' Possessions.",
+  "ja": "兵士の持ち物",
+  "keep": true
+ },
+ {
+  "en": "Special Barrier",
+  "ja": "特殊な結界",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Blink",
+  "ja": "瞬間移動の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Consecration",
+  "ja": "聖別の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Curse Rain",
+  "ja": "呪いの雨の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Domination",
+  "ja": "支配の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Fire",
+  "ja": "火炎の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Lightning",
+  "ja": "雷撃の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Shade Call",
+  "ja": "亡霊召喚の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spellshard - Terror",
+  "ja": "恐怖の呪文片",
+  "keep": true
+ },
+ {
+  "en": "Spewing Roach",
+  "ja": "吐き出すゴキブリ",
+  "keep": true
+ },
+ {
+  "en": "Spike",
+  "ja": "スパイク",
+  "keep": false
+ },
+ {
+  "en": "Splitting Wyrm",
+  "ja": "分裂の大蛇",
+  "keep": true
+ },
+ {
+  "en": "Spragin's Spells",
+  "ja": "スプラギンの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Squiggus Courier Job.",
+  "ja": "スクイガスの配達依頼",
+  "keep": true
+ },
+ {
+  "en": "Starcap's Training",
+  "ja": "スターキャップの訓練所",
+  "keep": true
+ },
+ {
+  "en": "Statuette",
+  "ja": "小像",
+  "keep": false
+ },
+ {
+  "en": "Steal Book For Ivanova.",
+  "ja": "イヴァノヴァのための本の窃取",
+  "keep": true
+ },
+ {
+  "en": "Stern's Missiles",
+  "ja": "スターンの投擲武器店",
+  "keep": true
+ },
+ {
+  "en": "Stolen Package",
+  "ja": "盗まれた小包",
+  "keep": true
+ },
+ {
+  "en": "Stone Destruction",
+  "ja": "石の破壊",
+  "keep": false
+ },
+ {
+  "en": "Stone Key",
+  "ja": "石の鍵",
+  "keep": false
+ },
+ {
+  "en": "Stoneshaman Frigga",
+  "ja": "フリッガ石呪術師",
+  "keep": true
+ },
+ {
+  "en": "Storm Port Undead.",
+  "ja": "ストーム港のアンデッド掃討",
+  "keep": true
+ },
+ {
+  "en": "Sunlight Greaves",
+  "ja": "日光の脛当て",
+  "keep": false
+ },
+ {
+  "en": "Surface Life",
+  "ja": "地上の生活",
+  "keep": false
+ },
+ {
+  "en": "Suspicious Package",
+  "ja": "怪しい小包",
+  "keep": true
+ },
+ {
+  "en": "Swamp Shoes",
+  "ja": "沼地のブーツ",
+  "keep": true
+ },
+ {
+  "en": "Sydow's Spells",
+  "ja": "シドウの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Tearing the Bodice",
+  "ja": "破れた胴着",
+  "keep": true
+ },
+ {
+  "en": "Teleport Home",
+  "ja": "帰還の瞬間移動",
+  "keep": false
+ },
+ {
+  "en": "Teleporter Notes",
+  "ja": "転移門のメモ",
+  "keep": true
+ },
+ {
+  "en": "Temple Scribe",
+  "ja": "神殿の書記",
+  "keep": true
+ },
+ {
+  "en": "Tenuta's Blades",
+  "ja": "テヌータの刃物店",
+  "keep": true
+ },
+ {
+  "en": "Tenuta's Training",
+  "ja": "テヌータの訓練所",
+  "keep": true
+ },
+ {
+  "en": "Tevrono and the Golems.",
+  "ja": "テヴロノとゴーレム",
+  "keep": true
+ },
+ {
+  "en": "The Armor",
+  "ja": "鎧",
+  "keep": true
+ },
+ {
+  "en": "The Beast Plague",
+  "ja": "獣の疫病",
+  "keep": true
+ },
+ {
+  "en": "The Black Halberd",
+  "ja": "黒いハルバード",
+  "keep": true
+ },
+ {
+  "en": "The Bow",
+  "ja": "弓",
+  "keep": true
+ },
+ {
+  "en": "The Bunker.",
+  "ja": "地下壕",
+  "keep": true
+ },
+ {
+  "en": "The Bunker?",
+  "ja": "地下壕？",
+  "keep": true
+ },
+ {
+  "en": "The Cockroach Infestation.",
+  "ja": "ゴキブリの大量発生",
+  "keep": true
+ },
+ {
+  "en": "The Dryad Grove Ogre.",
+  "ja": "ドライアドの森のオーガ",
+  "keep": true
+ },
+ {
+  "en": "The End of Magic",
+  "ja": "魔法の終焉",
+  "keep": true
+ },
+ {
+  "en": "The Goblin Chief.",
+  "ja": "ゴブリンの長",
+  "keep": true
+ },
+ {
+  "en": "The Golem Plague",
+  "ja": "ゴーレムの疫病",
+  "keep": true
+ },
+ {
+  "en": "The Grinder",
+  "ja": "粉砕者",
+  "keep": true
+ },
+ {
+  "en": "The Halberd",
+  "ja": "ハルバード",
+  "keep": true
+ },
+ {
+  "en": "The Invader Plague",
+  "ja": "侵略者の疫病",
+  "keep": true
+ },
+ {
+  "en": "The Lich Dafnyr",
+  "ja": "リッチのダフニール",
+  "keep": true
+ },
+ {
+  "en": "The Roach Plague",
+  "ja": "ゴキブリの疫病",
+  "keep": true
+ },
+ {
+  "en": "The Sacred Tower",
+  "ja": "聖なる塔",
+  "keep": true
+ },
+ {
+  "en": "The Shield",
+  "ja": "盾",
+  "keep": true
+ },
+ {
+  "en": "The Slime Plague",
+  "ja": "スライムの疫病",
+  "keep": true
+ },
+ {
+  "en": "The Spire's Heart",
+  "ja": "尖塔の心臓",
+  "keep": true
+ },
+ {
+  "en": "The Spouse",
+  "ja": "配偶者",
+  "keep": true
+ },
+ {
+  "en": "The Stone Circles",
+  "ja": "環状列石",
+  "keep": true
+ },
+ {
+  "en": "The Surface, At Last",
+  "ja": "地上到達",
+  "keep": true
+ },
+ {
+  "en": "The Troglo/Giant Barrier.",
+  "ja": "トログロと巨人の結界",
+  "keep": true
+ },
+ {
+  "en": "The Wand",
+  "ja": "ワンド",
+  "keep": true
+ },
+ {
+  "en": "Thieves Guild Supplies",
+  "ja": "盗賊ギルドの物資屋",
+  "keep": true
+ },
+ {
+  "en": "Thought Crystal",
+  "ja": "思考の水晶",
+  "keep": false
+ },
+ {
+  "en": "Tinker",
+  "ja": "鋳掛屋",
+  "keep": false
+ },
+ {
+  "en": "Tough Feet",
+  "ja": "頑丈な足",
+  "keep": false
+ },
+ {
+  "en": "Town Fletcher",
+  "ja": "町の矢工房",
+  "keep": true
+ },
+ {
+  "en": "Town Records",
+  "ja": "町の記録",
+  "keep": false
+ },
+ {
+  "en": "Town Tailor",
+  "ja": "町の仕立屋",
+  "keep": false
+ },
+ {
+  "en": "Trade Goods",
+  "ja": "交易品店",
+  "keep": false
+ },
+ {
+  "en": "Trash Burner",
+  "ja": "ゴミ焼却係",
+  "keep": true
+ },
+ {
+  "en": "Traveler",
+  "ja": "旅人",
+  "keep": false
+ },
+ {
+  "en": "Troglo Contract",
+  "ja": "トログロの契約書",
+  "keep": true
+ },
+ {
+  "en": "Troglo History",
+  "ja": "トログロの歴史",
+  "keep": true
+ },
+ {
+  "en": "Troglo Infiltrator",
+  "ja": "トログロの潜入者",
+  "keep": true
+ },
+ {
+  "en": "Troglodyte Defender",
+  "ja": "トログロの守護者",
+  "keep": true
+ },
+ {
+  "en": "Troglodyte Khazi",
+  "ja": "トログロのカジ",
+  "keep": true
+ },
+ {
+  "en": "Troglodyte Lord",
+  "ja": "トログロの君主",
+  "keep": true
+ },
+ {
+  "en": "Troglodyte Message",
+  "ja": "トログロの伝言",
+  "keep": true
+ },
+ {
+  "en": "Troglodyte Shaman",
+  "ja": "トログロ呪術師",
+  "keep": true
+ },
+ {
+  "en": "Twisted Gold Key",
+  "ja": "ねじれた金の鍵",
+  "keep": true
+ },
+ {
+  "en": "Twisted Steel Key",
+  "ja": "ねじれた鋼の鍵",
+  "keep": true
+ },
+ {
+  "en": "Twisted Unicorn Horn",
+  "ja": "ねじれた一角獣の角",
+  "keep": true
+ },
+ {
+  "en": "UNUSEDHunt Goblins For Malloc.",
+  "ja": "UNUSEDマロックのためのゴブリン狩り",
+  "keep": true
+ },
+ {
+  "en": "Unhale-Tel",
+  "ja": "アンヘイル・テル",
+  "keep": true
+ },
+ {
+  "en": "Unicorn",
+  "ja": "一角獣",
+  "keep": false
+ },
+ {
+  "en": "Unicorn Horns.",
+  "ja": "一角獣の角",
+  "keep": true
+ },
+ {
+  "en": "Ursag",
+  "ja": "ウルサグ",
+  "keep": true
+ },
+ {
+  "en": "Ursagi Hunter",
+  "ja": "ウルサギの狩人",
+  "keep": true
+ },
+ {
+  "en": "Use to read map.",
+  "ja": "地図読解",
+  "keep": false
+ },
+ {
+  "en": "Vagro's Crystals",
+  "ja": "ヴァグロの水晶店",
+  "keep": true
+ },
+ {
+  "en": "Vahnatai Crypt Key",
+  "ja": "ヴァーナタイの墓所の鍵",
+  "keep": true
+ },
+ {
+  "en": "Vahnatai Crypt.",
+  "ja": "ヴァーナタイの墓所",
+  "keep": true
+ },
+ {
+  "en": "Valentino's Items",
+  "ja": "ヴァレンティーノの雑貨店",
+  "keep": true
+ },
+ {
+  "en": "Vampire Lord",
+  "ja": "ヴァンパイアの君主",
+  "keep": true
+ },
+ {
+  "en": "Velnas Spells",
+  "ja": "ヴェルナスの呪文店",
+  "keep": true
+ },
+ {
+  "en": "Vengeful Innkeep",
+  "ja": "復讐の宿屋主人",
+  "keep": true
+ },
+ {
+  "en": "Vernita",
+  "ja": "ヴァーニタ",
+  "keep": true
+ },
+ {
+  "en": "Very Elite Monk",
+  "ja": "超精鋭の修道僧",
+  "keep": true
+ },
+ {
+  "en": "Vest of the Ninja!",
+  "ja": "忍者の胴着！",
+  "keep": true
+ },
+ {
+  "en": "Vicious Roach Bite",
+  "ja": "凶暴な噛みつき",
+  "keep": true
+ },
+ {
+  "en": "Visit Point Contemplation.",
+  "ja": "瞑想の岬への訪問",
+  "keep": true
+ },
+ {
+  "en": "Vlad's Lights",
+  "ja": "ヴラドの照明店",
+  "keep": true
+ },
+ {
+  "en": "Voltok's Crystals",
+  "ja": "ヴォルトックの水晶店",
+  "keep": true
+ },
+ {
+  "en": "Voster's Weaponry",
+  "ja": "ヴォスターの武器店",
+  "keep": true
+ },
+ {
+  "en": "Walking Filth",
+  "ja": "歩く汚濁",
+  "keep": true
+ },
+ {
+  "en": "Warpmetal Blade",
+  "ja": "歪んだ金属の刃",
+  "keep": true
+ },
+ {
+  "en": "Warrior's Kilt",
+  "ja": "戦士のキルト",
+  "keep": true
+ },
+ {
+  "en": "Winn's Gear",
+  "ja": "ウィンの装備店",
+  "keep": true
+ },
+ {
+  "en": "Withered Scales",
+  "ja": "枯れた鱗",
+  "keep": true
+ },
+ {
+  "en": "Wolf",
+  "ja": "狼",
+  "keep": false
+ },
+ {
+  "en": "Wormy Demon",
+  "ja": "蠕虫のデーモン",
+  "keep": true
+ },
+ {
+  "en": "Wounded",
+  "ja": "負傷",
+  "keep": false
+ },
+ {
+  "en": "Wyrmslayer",
+  "ja": "大蛇殺し",
+  "keep": true
+ },
+ {
+  "en": "Xian Amphora",
+  "ja": "シーアンのアンフォラ",
+  "keep": true
+ },
+ {
+  "en": "Xian Coin",
+  "ja": "シーアンの硬貨",
+  "keep": true
+ },
+ {
+  "en": "Xian Harp",
+  "ja": "シーアンの竪琴",
+  "keep": true
+ },
+ {
+  "en": "Xian Oil Lamp",
+  "ja": "シーアンの油ランプ",
+  "keep": true
+ },
+ {
+  "en": "Xian Pouch",
+  "ja": "シーアンの小袋",
+  "keep": true
+ },
+ {
+  "en": "Xian Rock",
+  "ja": "シーアンの岩",
+  "keep": true
+ },
+ {
+  "en": "Xian Shrub",
+  "ja": "シーアンの低木",
+  "keep": true
+ },
+ {
+  "en": "Xian Skull",
+  "ja": "シーアンの頭蓋骨",
+  "keep": true
+ },
+ {
+  "en": "Xian Slacks",
+  "ja": "シーアンのズボン",
+  "keep": true
+ },
+ {
+  "en": "Xian Vest",
+  "ja": "シーアンの胴衣",
+  "keep": true
+ },
+ {
+  "en": "Xurphus the Drake",
+  "ja": "ドレイククルファス",
+  "keep": true
+ },
+ {
+  "en": "Yorvua",
+  "ja": "ヨルヴア",
+  "keep": true
+ },
+ {
+  "en": "Young Hellhound",
+  "ja": "幼いヘルハウンド",
+  "keep": true
+ },
+ {
+  "en": "Yttra-Tel",
+  "ja": "イットラ・テル",
+  "keep": true
+ },
+ {
+  "en": "Zamora's Potions",
+  "ja": "ザモラの薬店",
+  "keep": true
+ },
+ {
+  "en": "Zkal's Journal",
+  "ja": "ズカルの日誌",
+  "keep": true
+ },
+ {
+  "en": "Zombie Thug",
+  "ja": "ゾンビのごろつき",
+  "keep": true
+ },
+ {
+  "en": "_Spike",
+  "ja": "スパイク",
+  "keep": false
+ },
+ {
+  "en": "apprentice",
+  "ja": "見習い",
+  "keep": false
+ },
+ {
+  "en": "chicken",
+  "ja": "鶏",
+  "keep": false
+ },
+ {
+  "en": "cow",
+  "ja": "牛",
+  "keep": false
+ },
+ {
+  "en": "innkeeper",
+  "ja": "宿屋の主人",
+  "keep": false
+ },
+ {
+  "en": "sheep",
+  "ja": "羊",
+  "keep": false
+ },
+ {
+  "en": "technician",
+  "ja": "技術者",
+  "keep": false
+ }
+]

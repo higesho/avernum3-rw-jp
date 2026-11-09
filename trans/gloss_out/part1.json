@@ -1,0 +1,1462 @@
+[
+{
+"en": "Anama",
+"ja": "アナマ",
+"keep": true
+},
+{
+"en": "Valorim",
+"ja": "ヴァロリム",
+"keep": true
+},
+{
+"en": "Gale",
+"ja": "ゲイル",
+"keep": true
+},
+{
+"en": "Lorelei",
+"ja": "ローレライ",
+"keep": true
+},
+{
+"en": "Fort Emergence",
+"ja": "エマージェンス砦",
+"keep": true
+},
+{
+"en": "Sharimik",
+"ja": "シャリミク",
+"keep": true
+},
+{
+"en": "Isle of Bigail",
+"ja": "ビゲイル島",
+"keep": true
+},
+{
+"en": "Shayder",
+"ja": "シェイダー",
+"keep": true
+},
+{
+"en": "Anaximander",
+"ja": "アナクシマンダー",
+"keep": true
+},
+{
+"en": "Blackcrag Fortress",
+"ja": "ブラッククラッグ要塞",
+"keep": true
+},
+{
+"en": "Upper Avernum",
+"ja": "上層アヴァーナム",
+"keep": true
+},
+{
+"en": "Empress Prazac",
+"ja": "プラザック女帝",
+"keep": true
+},
+{
+"en": "Tevrono",
+"ja": "テヴロノ",
+"keep": true
+},
+{
+"en": "Unspecified Services",
+"ja": "不特定サービス社",
+"keep": true
+},
+{
+"en": "Footracer Province",
+"ja": "フットレーサー地方",
+"keep": true
+},
+{
+"en": "Mayor Knight",
+"ja": "ナイト町長",
+"keep": true
+},
+{
+"en": "Ahonar",
+"ja": "アホナー",
+"keep": true
+},
+{
+"en": "Keep of Tinraya",
+"ja": "ティンラヤ城塞",
+"keep": true
+},
+{
+"en": "Vothkaro",
+"ja": "ヴォスカロ",
+"keep": true
+},
+{
+"en": "Baziron",
+"ja": "バジロン",
+"keep": true
+},
+{
+"en": "New Formello",
+"ja": "新フォルメロ",
+"keep": true
+},
+{
+"en": "Blackcrag",
+"ja": "ブラッククラッグ",
+"keep": true
+},
+{
+"en": "Calloc",
+"ja": "カロック",
+"keep": true
+},
+{
+"en": "Krizsan Province",
+"ja": "クリズサン地方",
+"keep": true
+},
+{
+"en": "Bunker",
+"ja": "地下壕",
+"keep": true
+},
+{
+"en": "Empire War",
+"ja": "帝国戦争",
+"keep": true
+},
+{
+"en": "Filth Factory",
+"ja": "汚濁工場",
+"keep": true
+},
+{
+"en": "Farport",
+"ja": "ファーポート",
+"keep": true
+},
+{
+"en": "Ghikra",
+"ja": "ギクラ",
+"keep": true
+},
+{
+"en": "Kneece",
+"ja": "クニース",
+"keep": true
+},
+{
+"en": "General Baziron",
+"ja": "バジロン将軍",
+"keep": true
+},
+{
+"en": "Sloan",
+"ja": "スローン",
+"keep": true
+},
+{
+"en": "Flanagan",
+"ja": "フラナガン",
+"keep": true
+},
+{
+"en": "Elhioc",
+"ja": "エルヒオク",
+"keep": true
+},
+{
+"en": "Ernest",
+"ja": "アーネスト",
+"keep": true
+},
+{
+"en": "Golddale",
+"ja": "ゴールドデール",
+"keep": true
+},
+{
+"en": "Guhkbar",
+"ja": "グクバル",
+"keep": true
+},
+{
+"en": "Monoroe Province",
+"ja": "モノロー地方",
+"keep": true
+},
+{
+"en": "Softport",
+"ja": "ソフトポート",
+"keep": true
+},
+{
+"en": "Bojar",
+"ja": "ボジャー",
+"keep": true
+},
+{
+"en": "New Cotra",
+"ja": "新コトラ",
+"keep": true
+},
+{
+"en": "Knight",
+"ja": "ナイト",
+"keep": false
+},
+{
+"en": "Libras",
+"ja": "リブラス",
+"keep": true
+},
+{
+"en": "Nantier",
+"ja": "ナンティエ",
+"keep": true
+},
+{
+"en": "Seles",
+"ja": "セレス",
+"keep": true
+},
+{
+"en": "World",
+"ja": "世界",
+"keep": false
+},
+{
+"en": "Bavner",
+"ja": "バヴナー",
+"keep": true
+},
+{
+"en": "Greendale",
+"ja": "グリーンデール",
+"keep": true
+},
+{
+"en": "Pergies",
+"ja": "パージーズ",
+"keep": true
+},
+{
+"en": "Vahkohs",
+"ja": "ヴァーコス",
+"keep": true
+},
+{
+"en": "Zkal",
+"ja": "ズカル",
+"keep": true
+},
+{
+"en": "Ahsoth",
+"ja": "アソス",
+"keep": true
+},
+{
+"en": "Berra",
+"ja": "ベラ",
+"keep": true
+},
+{
+"en": "Dalakros",
+"ja": "ダラクロス",
+"keep": true
+},
+{
+"en": "Gebra",
+"ja": "ゲブラ",
+"keep": true
+},
+{
+"en": "Ginny",
+"ja": "ジニー",
+"keep": true
+},
+{
+"en": "Judith",
+"ja": "ジュディス",
+"keep": true
+},
+{
+"en": "Kendra",
+"ja": "ケンドラ",
+"keep": true
+},
+{
+"en": "Kuper",
+"ja": "クーパー",
+"keep": true
+},
+{
+"en": "Levy",
+"ja": "レヴィ",
+"keep": true
+},
+{
+"en": "Moon",
+"ja": "ムーン",
+"keep": true
+},
+{
+"en": "Province",
+"ja": "地方",
+"keep": false
+},
+{
+"en": "Squiggus",
+"ja": "スクイガス",
+"keep": true
+},
+{
+"en": "Carmine",
+"ja": "カーマイン",
+"keep": true
+},
+{
+"en": "Carrie",
+"ja": "キャリー",
+"keep": true
+},
+{
+"en": "Castle Troglo",
+"ja": "トログロ城",
+"keep": true
+},
+{
+"en": "Church of the Divine Lucre",
+"ja": "聖なる金銭教会",
+"keep": true
+},
+{
+"en": "City Hall",
+"ja": "市庁舎",
+"keep": true
+},
+{
+"en": "Dervish",
+"ja": "修行僧",
+"keep": true
+},
+{
+"en": "Drakos",
+"ja": "ドラコス",
+"keep": true
+},
+{
+"en": "Foley",
+"ja": "フォーリー",
+"keep": true
+},
+{
+"en": "Foxfire",
+"ja": "フォックスファイア",
+"keep": true
+},
+{
+"en": "Grunders",
+"ja": "グランダーズ",
+"keep": true
+},
+{
+"en": "Jed",
+"ja": "ジェド",
+"keep": true
+},
+{
+"en": "King Vothkaro",
+"ja": "ヴォスカロ王",
+"keep": true
+},
+{
+"en": "Purgatos",
+"ja": "プルガトス",
+"keep": true
+},
+{
+"en": "Tinraya",
+"ja": "ティンラヤ",
+"keep": true
+},
+{
+"en": "Alien Slime",
+"ja": "異星のスライム",
+"keep": true
+},
+{
+"en": "Aminro",
+"ja": "アミンロ",
+"keep": true
+},
+{
+"en": "Appleton",
+"ja": "アップルトン",
+"keep": true
+},
+{
+"en": "Bigail",
+"ja": "ビゲイル",
+"keep": true
+},
+{
+"en": "Commander Ace",
+"ja": "エース司令官",
+"keep": true
+},
+{
+"en": "Delis",
+"ja": "デリス",
+"keep": true
+},
+{
+"en": "Dominique",
+"ja": "ドミニク",
+"keep": true
+},
+{
+"en": "Gorvifal",
+"ja": "ゴルヴィファル",
+"keep": true
+},
+{
+"en": "Hawke's Manse",
+"ja": "ホークの屋敷",
+"keep": true
+},
+{
+"en": "Illyree",
+"ja": "イリーリー",
+"keep": true
+},
+{
+"en": "Jinx",
+"ja": "ジンクス",
+"keep": true
+},
+{
+"en": "Lake Tomor",
+"ja": "トモア湖",
+"keep": true
+},
+{
+"en": "Levin",
+"ja": "レヴィン",
+"keep": true
+},
+{
+"en": "Northpoint Lighthouse",
+"ja": "北岬の灯台",
+"keep": true
+},
+{
+"en": "Randall",
+"ja": "ランドール",
+"keep": true
+},
+{
+"en": "Tenuta",
+"ja": "テヌータ",
+"keep": true
+},
+{
+"en": "Tucker",
+"ja": "タッカー",
+"keep": true
+},
+{
+"en": "Unused",
+"ja": "未使用",
+"keep": false
+},
+{
+"en": "Bernathy",
+"ja": "バーナシー",
+"keep": true
+},
+{
+"en": "Colchis",
+"ja": "コルキス",
+"keep": true
+},
+{
+"en": "Craswell",
+"ja": "クラスウェル",
+"keep": true
+},
+{
+"en": "Denise",
+"ja": "デニス",
+"keep": true
+},
+{
+"en": "Dorngas",
+"ja": "ドーンガス",
+"keep": true
+},
+{
+"en": "Edward",
+"ja": "エドワード",
+"keep": true
+},
+{
+"en": "Grinder",
+"ja": "粉砕者",
+"keep": true
+},
+{
+"en": "Grove",
+"ja": "グローヴ",
+"keep": false
+},
+{
+"en": "Irvine",
+"ja": "アーヴァイン",
+"keep": true
+},
+{
+"en": "Marish",
+"ja": "マリッシュ",
+"keep": true
+},
+{
+"en": "Masok",
+"ja": "マソク",
+"keep": true
+},
+{
+"en": "Mundt",
+"ja": "ムント",
+"keep": true
+},
+{
+"en": "Port Townsend",
+"ja": "タウンゼンド港",
+"keep": true
+},
+{
+"en": "Storm Port",
+"ja": "ストーム港",
+"keep": true
+},
+{
+"en": "Surface Immigrant",
+"ja": "地上の移民",
+"keep": true
+},
+{
+"en": "Terry",
+"ja": "テリー",
+"keep": true
+},
+{
+"en": "Yanmitho",
+"ja": "ヤンミソ",
+"keep": true
+},
+{
+"en": "Zang",
+"ja": "ザング",
+"keep": true
+},
+{
+"en": "Agrod",
+"ja": "アグロッド",
+"keep": true
+},
+{
+"en": "Alzon",
+"ja": "アルゾン",
+"keep": true
+},
+{
+"en": "Benedict",
+"ja": "ベネディクト",
+"keep": true
+},
+{
+"en": "Cerulian",
+"ja": "セルリアン",
+"keep": true
+},
+{
+"en": "Conruc",
+"ja": "コンラック",
+"keep": true
+},
+{
+"en": "Corie",
+"ja": "コリー",
+"keep": true
+},
+{
+"en": "Deland",
+"ja": "デランド",
+"keep": true
+},
+{
+"en": "Delenn",
+"ja": "デレン",
+"keep": true
+},
+{
+"en": "Dellston",
+"ja": "デルストン",
+"keep": true
+},
+{
+"en": "Elsner",
+"ja": "エルスナー",
+"keep": true
+},
+{
+"en": "Emergence",
+"ja": "エマージェンス",
+"keep": true
+},
+{
+"en": "Erin",
+"ja": "エリン",
+"keep": true
+},
+{
+"en": "Erox",
+"ja": "エロックス",
+"keep": true
+},
+{
+"en": "Eva",
+"ja": "エヴァ",
+"keep": true
+},
+{
+"en": "Fenris Port",
+"ja": "フェンリス港",
+"keep": true
+},
+{
+"en": "Footracer",
+"ja": "フットレーサー",
+"keep": true
+},
+{
+"en": "Gwost",
+"ja": "グウォスト",
+"keep": true
+},
+{
+"en": "Herron",
+"ja": "ヘロン",
+"keep": true
+},
+{
+"en": "Internal Affairs",
+"ja": "内部監察局",
+"keep": true
+},
+{
+"en": "Karnold Province",
+"ja": "カーノルド地方",
+"keep": true
+},
+{
+"en": "Kelly",
+"ja": "ケリー",
+"keep": true
+},
+{
+"en": "Lockhart",
+"ja": "ロックハート",
+"keep": true
+},
+{
+"en": "Lost Isle",
+"ja": "失われた島",
+"keep": true
+},
+{
+"en": "Marian",
+"ja": "マリアン",
+"keep": true
+},
+{
+"en": "Mayor",
+"ja": "町長",
+"keep": false
+},
+{
+"en": "Mayor Arbuckle",
+"ja": "アーバックル町長",
+"keep": true
+},
+{
+"en": "Mc",
+"ja": "マック",
+"keep": false
+},
+{
+"en": "Meena",
+"ja": "ミーナ",
+"keep": true
+},
+{
+"en": "Mother Melamed",
+"ja": "マザー・メラメド",
+"keep": true
+},
+{
+"en": "Mrrrr",
+"ja": "ムルルル",
+"keep": true
+},
+{
+"en": "Olga",
+"ja": "オルガ",
+"keep": true
+},
+{
+"en": "Paulo",
+"ja": "パウロ",
+"keep": true
+},
+{
+"en": "Renton",
+"ja": "レントン",
+"keep": true
+},
+{
+"en": "Services",
+"ja": "サービス",
+"keep": false
+},
+{
+"en": "Wainscotting",
+"ja": "ウェインスコッティング",
+"keep": true
+},
+{
+"en": "Zachariah",
+"ja": "ザカリア",
+"keep": true
+},
+{
+"en": "Zik",
+"ja": "ジク",
+"keep": true
+},
+{
+"en": "Abruzzo",
+"ja": "アブルッツォ",
+"keep": true
+},
+{
+"en": "Ace",
+"ja": "エース",
+"keep": true
+},
+{
+"en": "Alien Beasts",
+"ja": "異星の獣",
+"keep": true
+},
+{
+"en": "Arbuckle",
+"ja": "アーバックル",
+"keep": true
+},
+{
+"en": "Arbuckle of Krizsan",
+"ja": "クリズサンのアーバックル",
+"keep": true
+},
+{
+"en": "Arkley",
+"ja": "アークリー",
+"keep": true
+},
+{
+"en": "Black",
+"ja": "ブラック",
+"keep": false
+},
+{
+"en": "Bryk",
+"ja": "ブリク",
+"keep": true
+},
+{
+"en": "Cindy",
+"ja": "シンディ",
+"keep": true
+},
+{
+"en": "Denzil",
+"ja": "デンジル",
+"keep": true
+},
+{
+"en": "Divine Lucre",
+"ja": "聖なる金銭",
+"keep": true
+},
+{
+"en": "Earth",
+"ja": "地上",
+"keep": false
+},
+{
+"en": "Ehrenfeld",
+"ja": "エーレンフェルト",
+"keep": true
+},
+{
+"en": "Elisa",
+"ja": "エリサ",
+"keep": true
+},
+{
+"en": "Fortress",
+"ja": "要塞",
+"keep": false
+},
+{
+"en": "Gardner",
+"ja": "ガードナー",
+"keep": true
+},
+{
+"en": "Garnak",
+"ja": "ガーナック",
+"keep": true
+},
+{
+"en": "Glydden",
+"ja": "グリッデン",
+"keep": true
+},
+{
+"en": "Grimoire of Thren",
+"ja": "スレンの魔道書",
+"keep": true
+},
+{
+"en": "Harmon",
+"ja": "ハーモン",
+"keep": true
+},
+{
+"en": "Heavens",
+"ja": "天",
+"keep": false
+},
+{
+"en": "Kirchner",
+"ja": "キルヒナー",
+"keep": true
+},
+{
+"en": "Lyle",
+"ja": "ライル",
+"keep": true
+},
+{
+"en": "Maertok",
+"ja": "マエルトク",
+"keep": true
+},
+{
+"en": "Malloc",
+"ja": "マロック",
+"keep": true
+},
+{
+"en": "Marjorie",
+"ja": "マージョリー",
+"keep": true
+},
+{
+"en": "Mayor Scowcroft",
+"ja": "スカウクロフト町長",
+"keep": true
+},
+{
+"en": "Mazumdar",
+"ja": "マズムダール",
+"keep": true
+},
+{
+"en": "Najib",
+"ja": "ナジブ",
+"keep": true
+},
+{
+"en": "Nekaros",
+"ja": "ネカロス",
+"keep": true
+},
+{
+"en": "Overseer",
+"ja": "監督官",
+"keep": false
+},
+{
+"en": "Ozmo",
+"ja": "オズモ",
+"keep": true
+},
+{
+"en": "Pasi",
+"ja": "パシ",
+"keep": true
+},
+{
+"en": "Poulsbo",
+"ja": "ポールズボ",
+"keep": true
+},
+{
+"en": "Rabellino",
+"ja": "ラベリーノ",
+"keep": true
+},
+{
+"en": "Rali",
+"ja": "ラリ",
+"keep": true
+},
+{
+"en": "Roselei",
+"ja": "ローゼレイ",
+"keep": true
+},
+{
+"en": "Sandra",
+"ja": "サンドラ",
+"keep": true
+},
+{
+"en": "Seela",
+"ja": "シーラ",
+"keep": true
+},
+{
+"en": "Shahpur",
+"ja": "シャープル",
+"keep": true
+},
+{
+"en": "Southpoint Lighthouse",
+"ja": "南岬の灯台",
+"keep": true
+},
+{
+"en": "Thereza",
+"ja": "テレーザ",
+"keep": true
+},
+{
+"en": "Toras",
+"ja": "トラス",
+"keep": true
+},
+{
+"en": "Troglo",
+"ja": "トログロ",
+"keep": true
+},
+{
+"en": "University of Valorim",
+"ja": "ヴァロリム学院",
+"keep": true
+},
+{
+"en": "Vagro",
+"ja": "ヴァグロ",
+"keep": true
+},
+{
+"en": "Velnas",
+"ja": "ヴェルナス",
+"keep": true
+},
+{
+"en": "Void",
+"ja": "虚無",
+"keep": true
+},
+{
+"en": "Wray",
+"ja": "レイ",
+"keep": true
+},
+{
+"en": "Yessenia",
+"ja": "イェセニア",
+"keep": true
+},
+{
+"en": "Adrianne",
+"ja": "エイドリアン",
+"keep": true
+},
+{
+"en": "Alba",
+"ja": "アルバ",
+"keep": true
+},
+{
+"en": "Angel's Rest",
+"ja": "天使の安息地",
+"keep": true
+},
+{
+"en": "Angry Man",
+"ja": "怒れる男",
+"keep": true
+},
+{
+"en": "Anzovin",
+"ja": "アンゾヴィン",
+"keep": true
+},
+{
+"en": "Arion",
+"ja": "アリオン",
+"keep": true
+},
+{
+"en": "Bernard",
+"ja": "バーナード",
+"keep": true
+},
+{
+"en": "Bremerton",
+"ja": "ブレマートン",
+"keep": true
+},
+{
+"en": "Bruskrud",
+"ja": "ブルスクルド",
+"keep": true
+},
+{
+"en": "Bulon",
+"ja": "ブロン",
+"keep": true
+},
+{
+"en": "Captain Maxine",
+"ja": "マクシーン隊長",
+"keep": true
+},
+{
+"en": "Carlos",
+"ja": "カルロス",
+"keep": true
+},
+{
+"en": "Carroll",
+"ja": "キャロル",
+"keep": true
+},
+{
+"en": "Cassie",
+"ja": "キャシー",
+"keep": true
+},
+{
+"en": "Chief Cruncha",
+"ja": "クランチャ族長",
+"keep": true
+},
+{
+"en": "Claw Hardblade",
+"ja": "爪のハードブレード",
+"keep": true
+},
+{
+"en": "Cole",
+"ja": "コール",
+"keep": true
+},
+{
+"en": "Commander Corie",
+"ja": "コリー司令官",
+"keep": true
+},
+{
+"en": "Control",
+"ja": "Ctrl",
+"keep": false
+},
+{
+"en": "Corin",
+"ja": "コリン",
+"keep": true
+},
+{
+"en": "Dana",
+"ja": "ダナ",
+"keep": true
+},
+{
+"en": "Deborah",
+"ja": "デボラ",
+"keep": true
+},
+{
+"en": "Dossor",
+"ja": "ドッソル",
+"keep": true
+},
+{
+"en": "Dwaine",
+"ja": "ドウェイン",
+"keep": true
+},
+{
+"en": "Eric",
+"ja": "エリック",
+"keep": true
+},
+{
+"en": "Escovedo",
+"ja": "エスコベド",
+"keep": true
+},
+{
+"en": "Esselarea",
+"ja": "エッセラレア",
+"keep": true
+},
+{
+"en": "Filth Spreader",
+"ja": "汚濁の拡散者",
+"keep": true
+},
+{
+"en": "Gholus",
+"ja": "ゴーラス",
+"keep": true
+},
+{
+"en": "Ghost of Hawke",
+"ja": "ホークのゴースト",
+"keep": true
+},
+{
+"en": "God",
+"ja": "神",
+"keep": false
+},
+{
+"en": "Grassi",
+"ja": "グラッシ",
+"keep": true
+},
+{
+"en": "Hawke",
+"ja": "ホーク",
+"keep": true
+},
+{
+"en": "Hell",
+"ja": "地獄",
+"keep": false
+},
+{
+"en": "Hmurrr",
+"ja": "フムルル",
+"keep": true
+},
+{
+"en": "Ilsa",
+"ja": "イルサ",
+"keep": true
+},
+{
+"en": "Johanna",
+"ja": "ヨハンナ",
+"keep": true
+},
+{
+"en": "Kelda",
+"ja": "ケルダ",
+"keep": true
+},
+{
+"en": "Kessle",
+"ja": "ケスル",
+"keep": true
+},
+{
+"en": "King of the Troglodytes",
+"ja": "穴居族の王",
+"keep": true
+},
+{
+"en": "Koriba",
+"ja": "コリバ",
+"keep": true
+},
+{
+"en": "Kurt",
+"ja": "カート",
+"keep": true
+},
+{
+"en": "Kurtz",
+"ja": "カーツ",
+"keep": true
+},
+{
+"en": "Kyanan",
+"ja": "キャナン",
+"keep": true
+},
+{
+"en": "Kyhar",
+"ja": "カイアー",
+"keep": true
+},
+{
+"en": "Laika",
+"ja": "ライカ",
+"keep": true
+},
+{
+"en": "Land",
+"ja": "大地",
+"keep": false
+},
+{
+"en": "Londo",
+"ja": "ロンド",
+"keep": true
+},
+{
+"en": "Lumok",
+"ja": "ルモク",
+"keep": true
+},
+{
+"en": "Maddok Isle",
+"ja": "マドック島",
+"keep": true
+},
+{
+"en": "Martha",
+"ja": "マーサ",
+"keep": true
+},
+{
+"en": "Mayor Bernathy",
+"ja": "バーナシー町長",
+"keep": true
+},
+{
+"en": "Mayor Bernathy of Shayder",
+"ja": "シェイダーのバーナシー町長",
+"keep": true
+},
+{
+"en": "Mayor Knight of Sharimik",
+"ja": "シャリミクのナイト町長",
+"keep": true
+},
+{
+"en": "Mayor Runkle",
+"ja": "ランクル町長",
+"keep": true
+},
+{
+"en": "Melamed",
+"ja": "メラメド",
+"keep": true
+},
+{
+"en": "Mervin",
+"ja": "マーヴィン",
+"keep": true
+},
+{
+"en": "Mia",
+"ja": "ミア",
+"keep": true
+},
+{
+"en": "Mickie",
+"ja": "ミッキー",
+"keep": true
+},
+{
+"en": "Mrrhrr",
+"ja": "ムルハル",
+"keep": true
+},
+{
+"en": "Nell",
+"ja": "ネル",
+"keep": true
+},
+{
+"en": "Nydia",
+"ja": "ニディア",
+"keep": true
+},
+{
+"en": "Phoenix",
+"ja": "不死鳥",
+"keep": true
+},
+{
+"en": "Point Contemplation",
+"ja": "瞑想の岬",
+"keep": true
+},
+{
+"en": "Portal Keep",
+"ja": "転移門の城塞",
+"keep": true
+},
+{
+"en": "Prosise",
+"ja": "プロサイズ",
+"keep": true
+},
+{
+"en": "Quick Use",
+"ja": "クイック使用",
+"keep": true
+},
+{
+"en": "Radewitz",
+"ja": "ラデヴィッツ",
+"keep": true
+},
+{
+"en": "Sailor",
+"ja": "セイラー",
+"keep": true
+},
+{
+"en": "Sara",
+"ja": "サラ",
+"keep": true
+},
+{
+"en": "Scowcroft",
+"ja": "スカウクロフト",
+"keep": true
+},
+{
+"en": "Shane",
+"ja": "シェイン",
+"keep": true
+},
+{
+"en": "Shirley",
+"ja": "シャーリー",
+"keep": true
+},
+{
+"en": "Skribbane",
+"ja": "スクリバネ",
+"keep": true
+},
+{
+"en": "Slap of Pain",
+"ja": "苦痛の平手打ち",
+"keep": true
+},
+{
+"en": "Spud",
+"ja": "スパッド",
+"keep": true
+},
+{
+"en": "Ursag Brute",
+"ja": "ウルサグの野獣",
+"keep": true
+},
+{
+"en": "Vila",
+"ja": "ヴィラ",
+"keep": true
+},
+{
+"en": "Vok",
+"ja": "ヴォク",
+"keep": true
+},
+{
+"en": "Volb",
+"ja": "ヴォルブ",
+"keep": true
+},
+{
+"en": "Voorn",
+"ja": "ヴォーン",
+"keep": true
+},
+{
+"en": "Voster",
+"ja": "ヴォスター",
+"keep": true
+},
+{
+"en": "Wand of Endless Magery",
+"ja": "無尽の魔術のワンド",
+"keep": true
+},
+{
+"en": "Yale",
+"ja": "イェール",
+"keep": true
+},
+{
+"en": "Zalifar",
+"ja": "ザリファー",
+"keep": true
+},
+{
+"en": "Alonzo",
+"ja": "アロンゾ",
+"keep": true
+},
+{
+"en": "Armorsmith",
+"ja": "鎧鍛冶",
+"keep": true
+},
+{
+"en": "Bagzath",
+"ja": "バグザス",
+"keep": true
+},
+{
+"en": "Ballard",
+"ja": "バラード",
+"keep": true
+},
+{
+"en": "Barber",
+"ja": "バーバー",
+"keep": true
+},
+{
+"en": "Begbie",
+"ja": "ベグビー",
+"keep": true
+},
+{
+"en": "Big Spider",
+"ja": "ビッグスパイダー",
+"keep": true
+}
+]
