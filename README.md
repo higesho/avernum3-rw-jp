@@ -6,7 +6,7 @@ Spiderweb Software の RPG「Avernum 3: Ruined World」（Steam 版）を日本�
 - **ダウンロード**: [Releases](https://github.com/higesho/avernum3-rw-jp/releases/latest) の `Avernum3RW_JP_<版>.zip`
 - **スパイダーウェブ作品の日本語化（作品一覧）**: https://higesho.github.io/spiderweb-ja/
 
-![大陸の地図](docs/img/worldmap.jpg)
+![タイトル画面](docs/img/title.jpg)
 
 ## 使い方
 1. ZIP の中身（`dsound.dll`、`avernum_jp.ini`、`avernum_jp` フォルダ）をゲームのフォルダ（`Avernum 3.exe` のある場所）にコピーする

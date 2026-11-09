@@ -9,6 +9,7 @@ Checks every row that has a Japanese translation:
   * floating text (sink "float") must be <= 39 bytes in EUC-JP.
   * every character must exist in EUC-JP.
   * leading/trailing spaces of concatenation fragments are reported if dropped.
+  * rows marked "internal" and paths / file names (PATHLIKE) must stay English.
 With GAME_DIR, the file is also copied there as avernum_jp_exe.tsv when no errors.
 """
 import csv
@@ -21,6 +22,10 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 SPEC = re.compile(r'%(?:(\d)\$)?[-+ #0]*\d*(?:\.\d+)?[hlL]?([diouxXeEfgGcsp%])')
 NORMALIZE = str.maketrans({'～': '〜', '－': '−', '∥': '‖'})
+# Paths and file names built by the game ("%s%sAvernum 3 Files%s", "G%d.png", "Scripts\\...").
+# Translating one breaks file loading (the intro cutscene hung on a grey floor in A3 v0.9.0).
+PATHLIKE = re.compile(r'\b(?:Avernum \d )?(?:Files|Graphics Core|Scripts|Sounds)%s|%s[\\/]|[\\/]%s'
+                      r'|\.(?:txt|png|dat|bmp|wav|ogg|mp3|jpg|exe|dll|sav|ini)\b(?!\s+\w)', re.I)
 
 
 def specs(s):
@@ -65,6 +70,8 @@ def main(argv):
                 errors.append(f'{where}: 書式指定子が英語と対応していません 英:{[k for _, k in se]} 訳:{sj}')
         elif [k for _, k in se] != [k for _, k in sj]:
             errors.append(f'{where}: 書式指定子が英語と一致しません 英:{[k for _, k in se]} 訳:{[k for _, k in sj]}')
+        if sink == 'internal' or PATHLIKE.search(en):
+            errors.append(f'{where}: ファイル名・フォルダ名・内部用の文字列は訳せません（ゲームがデータを読めなくなる）')
         if 'float' in sink and len(euc) > 39:
             errors.append(f'{where}: 頭上テキストが {len(euc)}/39 バイトです（表示されません）')
         if en[:1] == ' ' and ja[:1] not in (' ', '　') or en[-1:] == ' ' and ja[-1:] not in (' ', '　'):

@@ -9,19 +9,24 @@ HEAD_REPL = [
     ('「Avernum: Escape From the Pit」', '「Avernum 3: Ruined World」'),
     ('content="Avernum: Escape From the Pit 日本語化パッチ"', 'content="Avernum 3: Ruined World 日本語化パッチ"'),
     ('content="地下世界アヴァーナムを、日本語で。', 'content="災いに荒らされた地上世界ヴァロリムへ。アヴァーナムの冒険を、日本語で。'),
-    ('https://higesho.github.io/avernum-efp-jp/img/worldmap.jpg', 'https://higesho.github.io/avernum3-rw-jp/img/worldmap.jpg'),
+    ('https://higesho.github.io/avernum-efp-jp/img/worldmap.jpg', 'https://higesho.github.io/avernum3-rw-jp/img/title.jpg'),
     ('--bg: #120f0c;', '--bg: #140d0b;'), ('--bg2: #1b1712;', '--bg2: #1d1310;'),
     ('--panel: #231d16;', '--panel: #261914;'), ('--line: #3a3026;', '--line: #43291f;'),
     ('--text: #e9e1d2;', '--text: #efe3d9;'), ('--muted: #b3a690;', '--muted: #bba596;'),
     ('--gold: #d9b26a;', '--gold: #e8935a;'), ('--gold2: #f0d79c;', '--gold2: #f6c39a;'),
     ('--accent: #7fb7a4;', '--accent: #9cc28a;'),
     ('rgba(18,15,12,.55) 0%, rgba(18,15,12,.82) 60%', 'rgba(20,13,11,.55) 0%, rgba(20,13,11,.84) 60%'),
-    ('url("img/worldmap.jpg") center 30% / cover no-repeat;', 'url("img/worldmap.jpg") center 40% / cover no-repeat;'),
+    ('url("img/worldmap.jpg") center 30% / cover no-repeat;', 'url("img/title.jpg") center 40% / cover no-repeat;'),
 ]
 
 REPO = 'https://github.com/higesho/avernum3-rw-jp'
 SHOTS = [
-    ('worldmap.jpg', '地名を日本語にした大陸の地図', '大陸の地図', 'カーノルド地方・クリズサン地方などの地名を描き直し'),
+    ('title.jpg', '日本語化したタイトルメニュー', 'タイトル画面', 'メニューも日本語に'),
+    ('party.jpg', '日本語で表示されたパーティーの作成画面', 'パーティーの作成', '職業・種族・説明も日本語で'),
+    ('intro.jpg', '日本語の字幕が出ている導入の場面', '導入の場面', '物語の始まりを日本語の字幕で'),
+    ('ingame.jpg', '日本語のチュートリアルとメッセージが出ているゲーム画面', 'ゲーム画面', 'チュートリアルやメッセージ欄も日本語に'),
+    ('character.jpg', '日本語化したキャラクターの能力画面', 'キャラクター画面', '能力・抵抗・スキル表も日本語に'),
+    ('worldmap.jpg', '地名を日本語にした大陸の地図', '大陸の地図', '手書き風の地名を描き直し'),
 ]
 STATS = [('17,624', '会話・本・イベントの文'), ('1,869', '人物・アイテム・呪文などの名前'),
          ('2,355', '地名・看板・場所の名前'), ('1,176', '画面・戦闘メッセージ')]
@@ -38,7 +43,7 @@ def body():
 <header class="hero">
   <div class="wrap">
     <a class="parent-link" href="https://higesho.github.io/spiderweb-ja/">← スパイダーウェブ作品 日本語化（作品一覧）</a><br>
-    <span class="eyebrow">非公式ファン翻訳 · ベータ版 v0.9.0</span>
+    <span class="eyebrow">非公式ファン翻訳 · ベータ版 v0.9.1</span>
     <h1>Avernum 3: Ruined World<small>日本語化パッチ</small></h1>
     <p class="lead">
       地下世界アヴァーナムの民が、ついに地上へ。異形の怪物と疫病に荒らされた帝国領ヴァロリムで、災いの源を突き止める——。
@@ -58,8 +63,8 @@ def body():
 <main class="wrap">
 
   <section id="screens">
-    <h2>日本語化した地図</h2>
-    <div class="gallery" style="grid-template-columns:1fr">
+    <h2>スクリーンショット</h2>
+    <div class="gallery">
 {shots}
     </div>
   </section>
@@ -88,7 +93,7 @@ def body():
     <ol class="steps">
       <li>
         <h3>ダウンロード</h3>
-        <p><a href="{REPO}/releases/latest">リリースページ</a>から <code>Avernum3RW_JP_v0.9.0.zip</code> をダウンロードし、展開します。</p>
+        <p><a href="{REPO}/releases/latest">リリースページ</a>から <code>Avernum3RW_JP_v0.9.1.zip</code> をダウンロードし、展開します。</p>
       </li>
       <li>
         <h3>ゲームのフォルダにコピー</h3>

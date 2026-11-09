@@ -908,6 +908,24 @@ static int reloc_refs(DWORD ptr)
     return n;
 }
 
+// True when some relocated pointer points inside [ptr+1, ptr+len]: the compiler inlined a copy of
+// this short string as 4-byte loads (mov eax,[s]; mov eax,[s+4] ...). Redirecting only the pointer
+// to the first byte would mix the first 4 bytes of the translation with the rest of the English
+// ("筋力ngth"), so such strings are overwritten in place instead.
+static int reloc_interior(DWORD ptr, size_t len)
+{
+    int lo = 0, hi = g_relocCount;
+    while (lo < hi)
+    {
+        int mid = (lo + hi) / 2;
+        if (g_relocTargets[mid] <= ptr)
+            lo = mid + 1;
+        else
+            hi = mid;
+    }
+    return lo < g_relocCount && g_relocTargets[lo] <= ptr + len;
+}
+
 // Returns the RVA of a whole NUL-terminated occurrence of s in the data sections with
 // exactly `refs` references (refs < 0: any number above zero) that is not in used[].
 static DWORD find_string_rva(const char *s, int refs, const DWORD *used, int nUsed)
@@ -951,7 +969,7 @@ static void load_exe_strings(const char *dir)
     FILE *f;
     long size;
     char *buf, *line, *next;
-    int lineno = 0, ok = 0, skipped = 0;
+    int lineno = 0, ok = 0, skipped = 0, inPlace = 0;
     IMAGE_DOS_HEADER *dos = (IMAGE_DOS_HEADER *)g_base;
     IMAGE_NT_HEADERS *nt = (IMAGE_NT_HEADERS *)(g_base + dos->e_lfanew);
     DWORD imageSize = nt->OptionalHeader.SizeOfImage;
@@ -971,6 +989,8 @@ static void load_exe_strings(const char *dir)
     fread(buf, 1, size, f);
     buf[size] = 0;
     fclose(f);
+    if (!g_relocTargets)
+        build_reloc_targets();
 
     for (line = buf; line && *line; line = next)
     {
@@ -1022,6 +1042,27 @@ static void load_exe_strings(const char *dir)
                 jp_log("exe_tsv line %d: characters not in EUC-JP were replaced with '?'\n", lineno);
             if (strstr(col[1], "float") && strlen(jp) > 39)
                 jp_log("exe_tsv line %d: floating text is %u bytes (max 39), it will not be shown\n", lineno, (unsigned)strlen(jp));
+            if (g_relocTargets && reloc_interior((DWORD)(g_base + rva), strlen((char *)g_base + rva)))
+            {
+                BYTE *s = g_base + rva;
+                size_t elen = strlen((char *)s), jl = strlen(jp);
+                if (jl <= elen)
+                {
+                    DWORD old;
+                    VirtualProtect(s, elen + 1, PAGE_READWRITE, &old);
+                    memcpy(s, jp, jl + 1);
+                    VirtualProtect(s, elen + 1, old, &old);
+                    inPlace++;
+                    ok++;
+                }
+                else
+                {
+                    jp_log("exe_tsv line %d: %s is copied 4 bytes at a time and the translation is longer than the English (%u > %u bytes), left English\n",
+                           lineno, col[0], (unsigned)jl, (unsigned)elen);
+                    skipped++;
+                }
+                continue;
+            }
             if (is_positional(jp))
                 g_needPositional = 1;
             strmap_put((DWORD)(g_base + rva), (DWORD)jp);
@@ -1066,7 +1107,7 @@ static void load_exe_strings(const char *dir)
             rel += blk->SizeOfBlock;
         }
         FlushInstructionCache(GetCurrentProcess(), NULL, 0);
-        jp_log("exe strings: %d translated, %d skipped, %d references patched\n", ok, skipped, patched);
+        jp_log("exe strings: %d translated (%d written in place), %d skipped, %d references patched\n", ok, inPlace, skipped, patched);
     }
     if (g_needPositional)
         install_sprintf_hook();

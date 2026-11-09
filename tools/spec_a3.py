@@ -14,6 +14,7 @@ INK = (52, 16, 14)          # dark red-brown of the help images
 STONE_INK = (40, 32, 30)
 PARCH_INK = (52, 30, 18)    # "Continent of Valorim" plaque
 WHITE = (255, 255, 255)
+PANEL_WHITE = (244, 244, 244)   # the game shows pure white as transparent on G128 (letters broke into dots)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 COMMON = os.path.join(HERE, '..', '..', '..')
@@ -34,19 +35,19 @@ SPEC = {
         'style': 'outlined', 'outline_colour': (66, 36, 52), 'fill': (222, 218, 196),
         'texts': [((x0, y0, x1, y1), [t], MINCHO_B, 30, None, 'center') for (x0, y0, x1, y1), t in [
             ((15, 12, 318, 43), '新しいゲーム'), ((61, 55, 273, 87), 'ロード'),
-            ((11, 115, 324, 146), 'キャラクターエディター'), ((54, 158, 281, 189), '操作説明'),
+            ((50, 115, 286, 146), 'キャラクターエディター'), ((54, 158, 281, 189), '操作説明'),
             ((92, 201, 243, 239), '設定'), ((30, 244, 304, 275), '勲章と統計'), ((124, 287, 209, 325), '終了')]]},
     'G128.png': {
         'erase': 'inpaint',
         'texts': [
-            ((812, 7, 858, 24), ['地図'], MINCHO_B, 14, WHITE, 'center', 'light'),
-            ((766, 305, 828, 322), ['メンバー'], MINCHO_B, 14, WHITE, 'center', 'light'),
-            ((386, 618, 452, 637), ['戦闘'], MINCHO_B, 15, WHITE, 'center', 'light'),
-            ((498, 618, 562, 637), ['魔法'], MINCHO_B, 15, WHITE, 'center', 'light'),
-            ((610, 618, 676, 637), ['特性'], MINCHO_B, 15, WHITE, 'center', 'light'),
-            ((386, 659, 452, 680), ['戦闘'], MINCHO_B, 15, WHITE, 'center', 'light'),
-            ((498, 659, 562, 680), ['魔法'], MINCHO_B, 15, WHITE, 'center', 'light'),
-            ((610, 659, 676, 680), ['特性'], MINCHO_B, 15, WHITE, 'center', 'light'),
+            ((812, 7, 858, 24), ['地図'], GOTHIC_B, 17, PANEL_WHITE, 'center', 'light'),
+            ((766, 305, 828, 322), ['メンバー'], GOTHIC_B, 17, PANEL_WHITE, 'center', 'light'),
+            ((386, 618, 452, 637), ['戦闘'], GOTHIC_B, 18, PANEL_WHITE, 'center', 'light'),
+            ((498, 618, 562, 637), ['魔法'], GOTHIC_B, 18, PANEL_WHITE, 'center', 'light'),
+            ((610, 618, 676, 637), ['特性'], GOTHIC_B, 18, PANEL_WHITE, 'center', 'light'),
+            ((386, 659, 452, 680), ['戦闘'], GOTHIC_B, 18, PANEL_WHITE, 'center', 'light'),
+            ((498, 659, 562, 680), ['魔法'], GOTHIC_B, 18, PANEL_WHITE, 'center', 'light'),
+            ((610, 659, 676, 680), ['特性'], GOTHIC_B, 18, PANEL_WHITE, 'center', 'light'),
         ]},
     'G133.png': {
         'erase': 'inpaint',

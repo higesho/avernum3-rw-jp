@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import cv2
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageChops
 
 FONTS = 'C:/Windows/Fonts/'
 MINCHO_B = FONTS + 'yumindb.ttf'       # Yu Mincho Demibold
@@ -143,6 +143,14 @@ def render(name, src_dir):
     for t in spec['texts']:
         box, lines, font_path, max_size, colour, align = t[:6]
         mask = text_layer(size, box, lines, font_path, max_size, align)
+        if len(t) > 6 and t[6] == 'light':
+            # white bold letters, like the English panel titles / tabs. No dark edge: the game
+            # draws this sheet scaled down (about 0.88 at 1024x768) and a 1-pixel edge breaks
+            # up into dots inside the letters.
+            bold = ImageChops.lighter(mask, ImageChops.offset(mask, 1, 0))
+            img.alpha_composite(Image.composite(Image.new('RGBA', size, colour + (255,)),
+                                                Image.new('RGBA', size, (0, 0, 0, 0)), bold))
+            continue
         if len(t) > 6 and t[6] == 'outline':
             edge = mask.filter(ImageFilter.MaxFilter(3))
             img.alpha_composite(Image.composite(Image.new('RGBA', size, (0, 0, 0, 255)),

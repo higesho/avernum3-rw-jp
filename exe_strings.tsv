@@ -693,7 +693,7 @@ va	sink	refs	english	japanese
 0x5f8a40	draw	1	Make New Character	新しいキャラクターを作成
 0x5f8a54	internal	1	 %s_	
 0x5f8a5c	internal	1	 %s	
-0x5f8a60	sprintf	1	%s%sAvernum 3 Files%s	%s%sAvernum 3 ファイル%s
+0x5f8a60	internal	1	%s%sAvernum 3 Files%s	
 0x5f8a78	internal	1	s	
 0x5f8a80	internal,sprintf	1	%s%sSpiderweb Software	
 0x5f8a98	internal	1	%s%sSpiderweb Software%sAvernum 3 Saved Games	
@@ -1495,7 +1495,7 @@ va	sink	refs	english	japanese
 0x6020e0	?	1	Evermoon	永月
 0x6020ec	?	1	Remembrance	追憶
 0x6020f8	?	1	Suncome	陽来
-0x602100	?	1	Radiane	ラディアン
+0x602100	?	1	Radiane	光輝
 0x602108	?	1	Empire	帝国
 0x602110	?	1	Dusk	黄昏
 0x602118	sprintf	1	%s %d, Year %d	%s %d日、%d年目
