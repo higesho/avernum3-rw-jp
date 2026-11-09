@@ -29,7 +29,7 @@ SHOTS = [
     ('worldmap.jpg', '地名を日本語にした大陸の地図', '大陸の地図', '手書き風の地名を描き直し'),
 ]
 STATS = [('17,624', '会話・本・イベントの文'), ('1,869', '人物・アイテム・呪文などの名前'),
-         ('2,355', '地名・看板・場所の名前'), ('1,176', '画面・戦闘メッセージ')]
+         ('2,355', '地名・看板・場所の名前'), ('1,175', '画面・戦闘メッセージ')]
 
 
 def body():
@@ -43,7 +43,7 @@ def body():
 <header class="hero">
   <div class="wrap">
     <a class="parent-link" href="https://higesho.github.io/spiderweb-ja/">← スパイダーウェブ作品 日本語化（作品一覧）</a><br>
-    <span class="eyebrow">非公式ファン翻訳 · ベータ版 v0.9.1</span>
+    <span class="eyebrow">非公式ファン翻訳 · ベータ版 v0.9.0</span>
     <h1>Avernum 3: Ruined World<small>日本語化パッチ</small></h1>
     <p class="lead">
       地下世界アヴァーナムの民が、ついに地上へ。異形の怪物と疫病に荒らされた帝国領ヴァロリムで、災いの源を突き止める——。
@@ -93,7 +93,7 @@ def body():
     <ol class="steps">
       <li>
         <h3>ダウンロード</h3>
-        <p><a href="{REPO}/releases/latest">リリースページ</a>から <code>Avernum3RW_JP_v0.9.1.zip</code> をダウンロードし、展開します。</p>
+        <p><a href="{REPO}/releases/latest">リリースページ</a>から <code>Avernum3RW_JP_v0.9.0.zip</code> をダウンロードし、展開します。</p>
       </li>
       <li>
         <h3>ゲームのフォルダにコピー</h3>
