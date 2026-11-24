@@ -1895,8 +1895,10 @@ static int resolve_addresses(int forceScan)
     for (i = 0; i < P_COUNT; i++)
     {
         m[i] = find_pattern(i, m, forceScan, &viaScan);
+#ifdef AVJP_TEST
         if (forceScan == 2 && i == P_TOK_CLASS)
             m[i] = NULL; // [debug] force_scan=2: pretend one is missing (tests the fall-back to English)
+#endif
         scanned += viaScan;
         if (!m[i])
             jp_log("not found in this Avernum 3.exe: %s\n", kPatterns[i].name);
@@ -2000,7 +2002,10 @@ BOOL WINAPI DllMain(HINSTANCE inst, DWORD reason, LPVOID reserved)
         g_base = (BYTE *)GetModuleHandleA(NULL);
         jp_log("Avernum 3 JP hook loaded. base=%p face=%s\n", g_base, g_fontFace);
         _snprintf(path, sizeof path, "%s\\avernum_jp.ini", dir);
+#ifdef AVJP_TEST
+        // 試験版（build.bat test）だけ: [debug] force_scan=1 で探索を強制、=2 で 1 つ見つからないふりをする
         g_forceScan = GetPrivateProfileIntA("debug", "force_scan", 0, path);
+#endif
         if (!resolve_addresses(g_forceScan))
         {
             jp_log("this Avernum 3.exe is not supported: Japanese is turned off and the game runs unchanged\n");
